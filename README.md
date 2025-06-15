@@ -1,6 +1,8 @@
 # Forecasting Election Outcomes in Contemporary Democracies
 
-This repository contains the source code and PDF for the paper **“Forecasting Election Outcomes in Contemporary Democracies”**, a group thesis completed as a module of study for MSc Data Science at The University of Birmingham. The project achieved a Distinction, and was praised in particular for being ambitious, relevant and technically sound. Feedback confirmed that the project demonstrated “a solid understanding of machine learning, including PCA for dimensionality reduction and clustering for stratified modelling.”
+This repository contains the source code and PDF for the paper **“Forecasting Election Outcomes in Contemporary Democracies”**, a group thesis completed as a module of study for MSc Data Science at The University of Birmingham. 
+
+The project achieved a Distinction, and was praised in particular for being ambitious, relevant and technically sound. Feedback confirmed that the project demonstrated “a solid understanding of machine learning, including PCA for dimensionality reduction and clustering for stratified modelling.”
 
 ---
 
