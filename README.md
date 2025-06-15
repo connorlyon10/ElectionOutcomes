@@ -33,6 +33,7 @@ The project is licensed under the **MIT License** - it is free to use, if it ben
   year         = {2025},
   type         = {Group Thesis},
   note         = {MSc Data Science group project}
+  url          = {https://github.com/connorlyon10/ElectionOutcomes}
 }
 ```
 
