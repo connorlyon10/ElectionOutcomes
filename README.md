@@ -5,6 +5,16 @@ This repository contains the source code and PDF for the paper **“Forecasting 
 The project achieved a Distinction, and was praised in particular for being ambitious, relevant and technically sound. Feedback confirmed that the project demonstrated “a solid understanding of machine learning, including PCA for dimensionality reduction and clustering for stratified modelling.”
 
 ---
+## Summary
+The project showed that the general state of a country, determined by its social & economic indexes, is a significant indicator in the outcome of an election. In summary we found that "when conditions worsen, people desire a change in government". This seems an obvious statement to make, but by proving it to be true, election outcomes were shown to be predictable.
+
+The biggest issue in predicting election outcomes is data sparsity. Taking the UK as an example, an election is usually every four years, and data quality has only been reliable in the UK for the past 100-200 years. This means that the training data is limited to ~ 25-50 observations, which is not enough to train an adequately complex model.
+
+One workaround for this was to collate the training data for multiple countries, and make a model that predicts each of them. However, the political climate between countries can have high variance, and data quality varies between country to country (many countries only recorded election data from 1990 onwards).
+
+... (it was decided that multiple models would be made based on clustering of countries) (to-do) 
+
+---
 ## Authors
 
 The project wouldn’t have been possible without significant contributions from each of the following co-authors & collaborators:
