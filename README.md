@@ -5,22 +5,6 @@ This repository contains the source code and PDF for the paper **“Forecasting 
 The project achieved a Distinction, and was praised in particular for being ambitious, relevant and technically sound. Feedback confirmed that the project demonstrated “a solid understanding of machine learning, including PCA for dimensionality reduction and clustering for stratified modelling.”
 
 ---
-
-## Table of Contents
-
-1. [Authors](#authors)  
-2. [Project Structure](#project-structure)  
-3. [Installation](#installation)  
-4. [Usage](#usage)  
-5. [Data](#data)  
-6. [Results](#results)  
-7. [How to Cite](#how-to-cite)  
-8. [Contributing](#contributing)  
-9. [Contact / Maintainers](#contact--maintainers)  
-10. [License](#license)  
-
----
-
 ## Authors
 
 The project wouldn’t have been possible without significant contributions from each of the following co-authors & collaborators:
@@ -30,16 +14,26 @@ The project wouldn’t have been possible without significant contributions from
 - Matthew Randall  
 - Yarkın Yorulmaz  
 - Yeni Jung  
-- Zehn‑Ul‑Abideen Sharif  
+- Zehn‑Ul‑Abideen Sharif
 
 ---
-
-## Project Structure
-(to-do)
-
+## Maintenance
+This repo isn't actively maintained - it's simply an archive. Questions about the project are welcome.
 
 
-## License
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+---
+## License & Citation
+The project is licensed under the **MIT License** - it is free to use, if it benefits any future work. We ask that you give thanks to the authors:
+
+```
+@mastersthesis{electionforecasting2025,
+  author       = {Connor Boyd-Lyon and Evelina Ivanova and Matthew Randall and Yarkın Yorulmaz and Yeni Jung and Zehn-Ul-Abideen Sharif},
+  title        = {Forecasting Election Outcomes in Contemporary Democracies},
+  school       = {University of Birmingham},
+  year         = {2025},
+  type         = {Group Thesis},
+  note         = {MSc Data Science group project}
+}
+```
 
 
