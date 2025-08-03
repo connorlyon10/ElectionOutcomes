@@ -6,7 +6,7 @@ The project achieved a Distinction, and was praised in particular for being ambi
 
 ---
 ## Summary
-The project showed that the general state of a country, determined by its social & economic indexes, is a significant indicator in the outcome of an election. In summary we found that "when conditions worsen, people desire a change in government". This seems an obvious statement to make, but by proving it to be true, election outcomes were shown to be predictable.
+The project showed that the general state of a country, determined by its social & economic indexes, is a significant indicator in the outcome of an election. In short, we found that "when conditions worsen, people desire a change in government". This seems an obvious statement to make, but by proving it to be true, election outcomes are proven to be predictable.
 
 The biggest issue in predicting election outcomes is data sparsity. Taking the UK as an example, an election is usually every four years, and data quality has only been reliable in the UK for the past 100-200 years. This means that the training data is limited to ~ 25-50 observations, which is not enough to train an adequately complex model.
 
@@ -28,6 +28,8 @@ The project wouldn’t have been possible without significant contributions from
 
 ---
 ## Maintenance
+This repo, including the readme, aren't complete. The authors are currently completing projects independently. The repo is scheduled to be cleaned up in October 2025 when this work is complete.
+
 This repo isn't actively maintained - it's simply an archive. Questions about the project are welcome.
 
 
